@@ -1,0 +1,23 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+div{
+  width: 200px;
+  height: 200px;
+  background: red;
+  border:20px solid blue;
+  box-shadow: 5px 5px 30px black;
+  margin: 100px;
+  padding: 50px;
+}
+#color1 {
+  width: 500px;
+  height: 70px;
+  background: linear-gradient(blue, pink, purple);
+  border:pink 20px dotted lemonchiffon;
+  box-shadow: 7px 2px 60px gray;
+  margin: 400px;
+  padding: 80px;
+}
